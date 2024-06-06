@@ -1,0 +1,7 @@
+node_modules/
+.env
+events.json
+users.json
+.DS_Store
+.vscode/
+/public/index.html
